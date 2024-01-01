@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "8fe8e8060a646ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2777295a1521d7ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f0057dd63c6b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English-study/新概念一册.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "662fb314f38a259c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f868fe8a231f8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36c7d2d654a4d467",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c26af6f3a7f41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "475a4954d10148b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9910a687f99799a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5253849f473d4fe8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b101422dcf4c523f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d920041bd08de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eceb4232733977b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English-study/新概念一册.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69713c97c247c189",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English-study/新概念一册.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e38fcd370f7218d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "333f65eab49872bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English-study/新概念一册.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "93f0057dd63c6b90",
+  "lastOpenFiles": [
+    "English-study/新概念一册.md",
+    "English-study",
+    "Welcome.md"
+  ]
+}
