@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d91fe20d7b4319ab",
+        "id": "e65411ba56ea9cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "ca616916bcc4c113",
+            "id": "b44af0e0339c2836",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New concept English learning/English-study/新概念一册.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New concept English learning/English-study/新概念一册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New concept English learning/English-study/新概念一册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New concept English learning/English-study/新概念一册.md"
+              }
             }
           }
         ]
@@ -138,6 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ca616916bcc4c113",
-  "lastOpenFiles": []
+  "active": "b44af0e0339c2836",
+  "lastOpenFiles": [
+    "C++/C++ 黑马程序员.md",
+    "Pasted image 20240106222953.png",
+    "Pasted image 20240101221253.png",
+    "2024-01-07.md",
+    "Pasted image 20240101221327.png",
+    "New concept English learning/English-study/新概念一册.md",
+    "C++/阿里云大学.md",
+    "C++/C++ 入门教程（41课时） - 阿里云大学.md",
+    "Pasted image 20240106223733.png",
+    "C++"
+  ]
 }
